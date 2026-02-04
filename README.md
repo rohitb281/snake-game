@@ -9,12 +9,12 @@ The game features dynamic snake growth, collision detection, food spawning, and 
 
 ![Snake Gameplay](assets/snake-demo.gif)
 
-*Game over due to wall hit*
+*Game over due to wall collision*
 
 
 ![Snake Gameplay2](assets/snake-demo2.gif)
 
-*Game over due to self-hit*
+*Game over due to self collision*
 
 ---
 
