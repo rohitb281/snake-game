@@ -75,11 +75,11 @@ python main.py
 ```
 
 ## 🎮 Controls
-- &nbsp;&nbsp;&nbsp;Key&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Action
-- Up Arrow&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Move Up
-- Down Arrow&nbsp;&nbsp;&nbsp;Move Down
-- Left Arrow&nbsp;&nbsp;&nbsp;Move Left
-- Right Arrow&nbsp;&nbsp;&nbsp;Move Right
+- &nbsp;&nbsp;&nbsp;Key&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Action
+- Up Arrow&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Move Up
+- Down Arrow&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Move Down
+- Left Arrow&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Move Left
+- Right Arrow&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Move Right
 
 ## 🧠 Concepts Demonstrated
 
