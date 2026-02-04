@@ -8,6 +8,11 @@ The game features dynamic snake growth, collision detection, food spawning, and 
 ## 🎮 Demo
 
 ![Snake Gameplay](assets/snake-demo.gif)
+*Game over due to wall hit*
+
+
+![Snake Gameplay2](assets/snake-demo2.gif)
+*Game over due to self-hit*
 
 ---
 
