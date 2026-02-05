@@ -76,56 +76,51 @@ The program is structured into multiple modules for clean separation of logic:
 ### Run the Game
 
 ```bash
-git clone https://github.com/your-username/snake-game.git
+git clone https://github.com/rohitb281/snake-game.git
 cd snake-game
 python main.py
 ```
 
 ## 🎮 Controls
-- &nbsp;&nbsp;&nbsp;Key&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Action
-- Up Arrow&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Move Up
-- Down Arrow&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Move Down
-- Left Arrow&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Move Left
-- Right Arrow&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Move Right
+| Key         | Action     |
+|--------------|-------------|
+| Up Arrow     | Move Up     |
+| Down Arrow   | Move Down   |
+| Left Arrow   | Move Left   |
+| Right Arrow  | Move Right  |
 
 ## 🧠 Concepts Demonstrated
-
 - Object-Oriented Programming
-
 - Event handling
-
 - Game loop design
-
 - Collision detection
-
 - State management
-
 - Modular code architecture
 
+---
+
 ## 📈 Possible Improvements
-
 = High score persistence
-
 - Difficulty levels
-
 - Pause/resume feature
-
 - Sound effects
-
 - Restart without closing window
-
 - Adjustable speed
 
+---
+
 ## 🧪 Known Limitations
-
 - No restart button after game over
-
 - Fixed movement speed
-
 - No boundary wrapping
 
-## 📄 License
+---
 
+## 📄 License
 - MIT License — free to use and modify.
 
+---
 
+## 👤 Author
+- Rohit Bollapragada
+- GitHub: https://github.com/rohitb281
