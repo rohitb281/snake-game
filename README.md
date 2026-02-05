@@ -100,7 +100,7 @@ python main.py
 ---
 
 ## 📈 Possible Improvements
-= High score persistence
+- High score persistence
 - Difficulty levels
 - Pause/resume feature
 - Sound effects
