@@ -97,7 +97,7 @@ python main.py
 
 ## 🎮 Controls
 | Key         | Action     |
-|--------------|-------------|
+|:------------:|:----------:|
 | Up Arrow     | Move Up     |
 | Down Arrow   | Move Down   |
 | Left Arrow   | Move Left   |
