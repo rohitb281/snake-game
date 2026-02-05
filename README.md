@@ -45,8 +45,7 @@ The program is structured into multiple modules for clean separation of logic:
 
 ## 🧱 Project Architecture
 ```
-snake-game/
-📁
+📁 snake-game/
 ├── 🗂️ assets/
 │ ├── 🎬 snake-demo.gif
 │ └── 🎬 snake-demo2.gif
