@@ -46,16 +46,16 @@ The program is structured into multiple modules for clean separation of logic:
 ## 🧱 Project Architecture
 ```
 snake-game/
+📁
+├── 🗂️ assets/
+│ ├── 🎬 snake-demo.gif
+│ └── 🎬 snake-demo2.gif
 │
-├── assets/
-│ ├── snake-demo.gif
-│ └── snake-demo2.gif
-│
-├── main.py # Game loop and event handling
-├── snake.py # Snake class: movement, growth, direction control
-├── food.py # Food class: random spawn and refresh logic
-├── scoreboard.py # Score tracking and game-over display
-└── README.md
+├── 🐍 main.py # Game loop and event handling
+├── 🐍 snake.py # Snake class: movement, growth, direction control
+├── 🐍 food.py # Food class: random spawn and refresh logic
+├── 🐍 scoreboard.py # Score tracking and game-over display
+└── 📄 README.md
 ```
 
 ## 🧩 How It Works
