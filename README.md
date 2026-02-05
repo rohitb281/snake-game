@@ -131,10 +131,13 @@ python main.py
 ---
 
 ## 📄 License
-- MIT License — free to use and modify.
+
+Open for educational and portfolio use.
 
 ---
 
 ## 👤 Author
-- Rohit Bollapragada
-- GitHub: https://github.com/rohitb281
+
+Rohit Bollapragada
+
+GitHub: https://github.com/rohitb281
